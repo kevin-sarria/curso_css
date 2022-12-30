@@ -264,7 +264,7 @@ img {
 
 .seguridad::after {
     bottom: -10rem;
-    left: 0;
+    left: -1rem;
     transform: rotate(3deg);
 }
 
